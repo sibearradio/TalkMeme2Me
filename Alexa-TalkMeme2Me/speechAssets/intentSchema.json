@@ -1,0 +1,31 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "EndSessionIntent"
+    },
+    {
+      "intent": "GetRecentListIntent"
+    },
+    {
+      "intent": "GetTrendingMemeIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "choice",
+          "type": "AMAZON.US_FIRST_NAME"
+        }
+      ],
+      "intent": "PickNameIntent"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+EndSessionIntent thank you
+GetRecentListIntent who has sent me meme
+GetTrendingMemeIntent what is the meme of the day
+PickNameIntent what did {choice} send me
